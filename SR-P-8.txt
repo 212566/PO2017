@@ -6,6 +6,6 @@ Dominik Dumin 221131 https://github.com/dominikdumin/Senstation
 Piotr Wyciechowski 204004 https://github.com/piotrwyciechowski/proj
 Jakub Kaszuba 221097
 Piotr Rabiej 200231
-Michał Stuleblak 212566
+Michał Stuleblak 212566 https://github.com/212566/Projekt_Programowanie_Obiektowe
 Maciej Strzyżewski 204025 https://github.com/StrzyzewskiMac/DomowySystemAlarmowy
 Konrad Dziagacz 186465 https://github.com/Gast10/POProjekt
